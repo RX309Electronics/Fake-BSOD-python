@@ -12,3 +12,4 @@ Windows:
 4. Execute the Main.py file 
 5. Have fun!
 
+ONLY WORKS ON WINDOWS!!!!!

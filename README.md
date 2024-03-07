@@ -12,8 +12,3 @@ Windows:
 4. Execute the Main.py file 
 5. Have fun!
 
-
-Linux:
-1. install everything by executing "sudo bash Install_requirements.sh" in the folder the file is in. Put in the password and it auto installs everything.
-2. Execute the Main.py file by clicking on it or using the terminal, cd into the folder the script is in and using "python3 Main.py"
-3. Have fun!
